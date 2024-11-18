@@ -1,0 +1,30 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    float I,V,Vf,R;
+    cout << "Ingresar el valor de la resistencia " << endl;
+    cin >> R;
+    cout << "Ingresar el valor del voltaje del foco " << endl;
+    cin >> Vf;
+
+    V = 12;
+    I = (V-Vf)/R;
+
+    if (I==0){
+        cout << "No pasa corriente " << endl;
+    }
+    if (I < 0){
+        cout << "Hizo corto circuito " << endl;
+    }
+    if(I == 0.5){
+        cout << "Se suguiere cambiar el valor de la resistencia " << endl;
+    }
+    if (I>1){
+        cout << "Funciona correctamente " << endl;
+        cout << "el valor de la corriente es " << I <<endl;
+    }
+    return 0;
+}
