@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+float notas[3][6];
+
+for (float i = 0 ; i < 3; i++){
+for (float j = 0; j < 6 ;j++){
+cout << "ingrese las notas: " << "[" << i << "]" << "[" << j << "]" << endl;
+cin >> notas[3][4];
+      }
+      cout << endl;
+    }
+for (float i = 0 ; i < 3; i++){
+for (float j = 0; j < 6 ;j++){
+     cout << "las notas de primer parcial son "  << endl;
+    }
+}
+
+}
