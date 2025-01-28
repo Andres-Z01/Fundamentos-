@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1738102054 source:c:\users\andres\documents\fundamentos de programacion\laboratrio\main.cpp
+	"C:\Users\Andres\Documents\Fundamentos de programacion\Laboratrio\AgregarSaldo.h"
+	"C:\Users\Andres\Documents\Fundamentos de programacion\Laboratrio\Comprar.h"
+	"C:\Users\Andres\Documents\Fundamentos de programacion\Laboratrio\Consutar_inventario.h"
+	"C:\Users\Andres\Documents\Fundamentos de programacion\Laboratrio\verificarsaldo.h"
+	"C:\Users\Andres\Documents\Fundamentos de programacion\Laboratrio\Ingresar_Productos.h"
+	<iostream>
+	<string>
+
+1738100002 c:\users\andres\documents\fundamentos de programacion\laboratrio\agregarsaldo.h
+	<iostream>
+
+1738102615 c:\users\andres\documents\fundamentos de programacion\laboratrio\comprar.h
+	<iostream>
+
+1738100770 c:\users\andres\documents\fundamentos de programacion\laboratrio\consutar_inventario.h
+	<iostream>
+
+1738102144 c:\users\andres\documents\fundamentos de programacion\laboratrio\verificarsaldo.h
+	<iostream>
+
+1738101928 c:\users\andres\documents\fundamentos de programacion\laboratrio\ingresar_productos.h
+	<iostream>
+
